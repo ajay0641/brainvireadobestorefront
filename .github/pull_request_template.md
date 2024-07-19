@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--{repo}--{owner}.hlx.live/
-- After: https://<branch>--{repo}--{owner}.hlx.live/
+- Before: https://main--brainvireadobestorefront--ajay0641.hlx.live/
+- After: https://<branch>--brainvireadobestorefront--ajay0641.hlx.live/
